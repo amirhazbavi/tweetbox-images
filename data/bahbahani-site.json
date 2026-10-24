@@ -17,9 +17,9 @@
       "bookmarks": [],
       "versions": [],
       "relatedIds": [],
-      "deleted": false,
+      "deleted": true,
       "scheduledAt": null,
-      "createdAt": "2026-10-24T12:32:42.707Z"
+      "createdAt": "2026-10-24T12:33:12.960Z"
     },
     {
       "id": "a2",
@@ -37,9 +37,9 @@
       "bookmarks": [],
       "versions": [],
       "relatedIds": [],
-      "deleted": true,
+      "deleted": false,
       "scheduledAt": null,
-      "createdAt": "2026-10-24T12:32:42.729Z"
+      "createdAt": "2026-10-24T12:33:12.960Z"
     },
     {
       "id": "a3",
@@ -57,9 +57,9 @@
       "bookmarks": [],
       "versions": [],
       "relatedIds": [],
-      "deleted": true,
+      "deleted": false,
       "scheduledAt": null,
-      "createdAt": "2026-10-24T12:32:42.729Z"
+      "createdAt": "2026-10-24T12:33:12.960Z"
     }
   ],
   "comments": [],
@@ -82,16 +82,7 @@
       "icon": "❖"
     }
   ],
-  "logs": [
-    {
-      "id": "l1792845175427lzi2",
-      "at": "2026-10-24T12:32:55.427Z",
-      "actor": "admin",
-      "role": "superadmin",
-      "action": "admin login",
-      "details": ""
-    }
-  ],
+  "logs": [],
   "media": [],
   "settings": {
     "siteTitle": "پایگاه رسمی آیت‌الله بحبحانی",
