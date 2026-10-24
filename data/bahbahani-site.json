@@ -37,7 +37,7 @@
       "bookmarks": [],
       "versions": [],
       "relatedIds": [],
-      "deleted": false,
+      "deleted": true,
       "scheduledAt": null,
       "createdAt": "2026-10-24T12:33:12.960Z"
     },
@@ -57,7 +57,7 @@
       "bookmarks": [],
       "versions": [],
       "relatedIds": [],
-      "deleted": false,
+      "deleted": true,
       "scheduledAt": null,
       "createdAt": "2026-10-24T12:33:12.960Z"
     }
